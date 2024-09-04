@@ -11,4 +11,5 @@ En este caso no se trata de un modelo típico en estrella o copo de nieve con re
 Hasta aquí lo realizado hasta el momento del proyecto, a continuación los próximos pasos:
    
 4. Realizar varios dashboards en POWER BI para exponer los datos relevantes y resolver las preguntas importantes.
+   
 5. Organizarlos en una presentacion en video en POWER POINT para contar, de una manera concisa, coherente y que mueva a la acción, qué nos cuentan estos datos sobre el CHURN y como realizar acciones concretas para abordar este problema. 
