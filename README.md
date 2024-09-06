@@ -4,9 +4,10 @@ A partir de un único archivo CSV de KAGGLE, sobre la rotación de clientes de u
 
 1. En un primer paso utilizo MySQL para visualizar los datos, obtener una primera visión de conjunto de los mismos y comprovar su integridad y coheréncia.
 2. Tras ellos utilizo POWER BI para hacer las transformaciones necesarias y normalizar el modelo, separando la información en varias tablas y relacionandolas entre si creando un modelo coherente y práctico.
-En este caso no se trata de un modelo típico en estrella o copo de nieve con relaciones varios a uno. Partiendo del Churn como eje vertebrador y objetivo de los datos organizo las otras tablas de hechos (Servicios, info del cliente, facturación, etc) relacionadas con el CHURN. Solo la tabla de lugares es una tabla de dimensiones. Se trata por tanto de un modelo atípico que representó un reto para organizar los datos de manera coherente i eficiente.
+![image](https://github.com/user-attachments/assets/6229c050-744d-456d-b688-5cfd455c92fd)
+En este caso no se trata de un modelo típico en estrella o copo de nieve con relaciones varios a uno. Partiendo de los indicadores del Churn como eje vertebrador y objetivo del análisis, organizo las otras tablas de hechos (Cuenta, Servicios, Facturación, Demografia, Facturación i Satisfacción del cliente) relacionadas con el CHURN. Solo la tabla de lugares es una tabla de dimensiones propiamente dicha. Se trata por tanto de un modelo atípico que representó un reto e implico una buena comprensión del contexto i del negocio para organizar los datos de manera coherente y eficiente.
 
-3. Realizo un primer análisis y busco las preguntas relevantes para preparar y organizar el análisis en profundidad. Parto con la ventaja de mi amplia experiéncia en sector TELCO. 
+4. Realizo un primer análisis y busco las preguntas relevantes para preparar y organizar el análisis en profundidad. Parto con la ventaja de mi amplia experiéncia en sector TELCO. 
 
 Hasta aquí lo realizado hasta el momento del proyecto, a continuación los próximos pasos:
    
