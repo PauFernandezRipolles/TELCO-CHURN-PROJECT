@@ -18,13 +18,17 @@ Se trata por tanto de un modelo atípico que representó un reto e implico una b
   * Services: ¿Qué servicios contratan?
 * Para empezar a responder a estas preguntas empiezo a realizar medidas y a crear columnas calculadas con DAX:
   * Calculo la tasa de Churn:
-  * 
-  * Creo un Scoring de clientes en función de la cantidad y calidad de los servicios contratados:
-  * 
-  * Calculo la tasa de clientes Premium:
-    ![image](https://github.com/user-attachments/assets/f492ac10-c077-42f8-bbb0-70593f683c9b)
+    
+    ![image](https://github.com/user-attachments/assets/36f9b6c2-8ad2-4d38-8c86-8d4630660ea8)
 
+  * Creo un Scoring de clientes en función de la cantidad y calidad de los servicios contratados:
+    
+    ![image](https://github.com/user-attachments/assets/737e188b-cd40-48c2-9ed3-0bd058ba7e73)
+
+  * Calculo la tasa de clientes Premium:
+    
     ![image](https://github.com/user-attachments/assets/2b9b58f0-f837-4afa-94f3-a620a58ceb01)
+    ![image](https://github.com/user-attachments/assets/f492ac10-c077-42f8-bbb0-70593f683c9b)
 
 Hasta aquí lo realizado hasta el momento del proyecto, a continuación los próximos pasos:
    
