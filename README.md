@@ -10,9 +10,21 @@ En este caso no se trata de un modelo típico en estrella o copo de nieve con re
 Se trata por tanto de un modelo atípico que representó un reto e implico una buena comprensión del contexto y del negocio para organizar los datos de manera coherente y eficiente.
 
 * Realizo un primer análisis y busco las preguntas relevantes para preparar y organizar el análisis en profundidad.
+
+* Organizo el análisis en 4 dashboards:
+  * Customer: ¿Qué tipologia de clientes se quedan y cuales se van?
+  * Billing: ¿Qué gastos realizan los clientes que se quedan y los que se van?
+  * Account: ¿Qué tipo de cuentas tienen?
+  * Services: ¿Qué servicios contratan?
+* Para empezar a responder a estas preguntas empiezo a realizar medidas i a crear columnas calculadas con DAX:
+  * Calculo la tasa de Churn:
+  * 
+  * Creo un Scoring de clientes en función de la cantidad y calidad de los servicios contratados:
+  * 
+  * Calculo la tasa de clientes Premium:
+  * 
 Hasta aquí lo realizado hasta el momento del proyecto, a continuación los próximos pasos:
    
-* Organizar el análisis en varios dashboards en POWER BI para exponer los datos relevantes y resolver las preguntas importantes.
-
+* Realizar los dashboards, con sus correspondientes visualizaciones, en POWER BI para exponer los datos relevantes y resolver las preguntas importantes.
 * Organizarlos en un informe de fácil navegación y usabilidad.
 * Realizar una presentacion en video en POWER POINT para contar, de una manera concisa, coherente y que mueva a la acción, qué nos cuentan estos datos sobre el CHURN y como realizar acciones concretas para abordar este problema. 
