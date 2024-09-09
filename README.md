@@ -28,6 +28,7 @@ Se trata por tanto de un modelo atípico que representó un reto e implico una b
   * Calculo la tasa de clientes Premium:
     
     ![image](https://github.com/user-attachments/assets/2b9b58f0-f837-4afa-94f3-a620a58ceb01)
+    
     ![image](https://github.com/user-attachments/assets/f492ac10-c077-42f8-bbb0-70593f683c9b)
 
 Hasta aquí lo realizado hasta el momento del proyecto, a continuación los próximos pasos:
