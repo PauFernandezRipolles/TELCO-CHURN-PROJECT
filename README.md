@@ -16,13 +16,18 @@ Se trata por tanto de un modelo atípico que representó un reto e implico una b
   * Billing: ¿Qué gastos realizan los clientes que se quedan y los que se van?
   * Account: ¿Qué tipo de cuentas tienen?
   * Services: ¿Qué servicios contratan?
-* Para empezar a responder a estas preguntas empiezo a realizar medidas i a crear columnas calculadas con DAX:
+* Para empezar a responder a estas preguntas empiezo a realizar medidas y a crear columnas calculadas con DAX:
   * Calculo la tasa de Churn:
   * 
   * Creo un Scoring de clientes en función de la cantidad y calidad de los servicios contratados:
   * 
   * Calculo la tasa de clientes Premium:
-  * 
+  * Premium Value = 
+    IF(
+      services[Internet Service] = "Yes" &&
+      services[Phone Service] = "Yes" &&
+      services[Services Score] >= 8,1,0
+      )
 Hasta aquí lo realizado hasta el momento del proyecto, a continuación los próximos pasos:
    
 * Realizar los dashboards, con sus correspondientes visualizaciones, en POWER BI para exponer los datos relevantes y resolver las preguntas importantes.
