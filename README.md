@@ -22,6 +22,9 @@ Se trata por tanto de un modelo atípico que representó un reto e implico una b
     ![image](https://github.com/user-attachments/assets/36f9b6c2-8ad2-4d38-8c86-8d4630660ea8)
 
   * Creo un Scoring de clientes en función de la cantidad y calidad de los servicios contratados:
+ 
+    ![image](https://github.com/user-attachments/assets/62b482e8-2473-4277-82c2-89651059ff76)
+
     
     ![image](https://github.com/user-attachments/assets/737e188b-cd40-48c2-9ed3-0bd058ba7e73)
 
