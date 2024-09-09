@@ -28,7 +28,7 @@ Se trata por tanto de un modelo atípico que representó un reto e implico una b
     
     ![image](https://github.com/user-attachments/assets/737e188b-cd40-48c2-9ed3-0bd058ba7e73)
 
-  * Calculo la tasa de clientes Premium:
+  * Calculo la tasa de clientes Premium en función del scoring:
     
     ![image](https://github.com/user-attachments/assets/2b9b58f0-f837-4afa-94f3-a620a58ceb01)
     
