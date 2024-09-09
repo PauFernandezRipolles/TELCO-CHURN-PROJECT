@@ -19,7 +19,8 @@ Se trata por tanto de un modelo atípico que representó un reto e implico una b
 * Para empezar a responder a estas preguntas empiezo a realizar medidas y a crear columnas calculadas con DAX:
   * Calculo la tasa de Churn:
     
-    ![image](https://github.com/user-attachments/assets/36f9b6c2-8ad2-4d38-8c86-8d4630660ea8)
+    ![image](https://github.com/user-attachments/assets/51949780-1fbb-432f-b0a8-dfbf2072233c)
+
 
   * Creo un Scoring de clientes en función de la cantidad y calidad de los servicios contratados:
  
@@ -32,7 +33,8 @@ Se trata por tanto de un modelo atípico que representó un reto e implico una b
     
     ![image](https://github.com/user-attachments/assets/2b9b58f0-f837-4afa-94f3-a620a58ceb01)
     
-    ![image](https://github.com/user-attachments/assets/f492ac10-c077-42f8-bbb0-70593f683c9b)
+    ![image](https://github.com/user-attachments/assets/5699557b-ecd1-4092-90d1-c6a908facbb3)
+
 
 Hasta aquí lo realizado hasta el momento del proyecto, a continuación los próximos pasos:
    
