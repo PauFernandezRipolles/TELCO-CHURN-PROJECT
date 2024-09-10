@@ -44,13 +44,13 @@ Se trata por tanto de un modelo atípico que representó un reto e implicó una 
    
 * Realizo los dashboards, con sus correspondientes visualizaciones, en POWER BI para exponer los datos relevantes y resolver las preguntas importantes.
 
-![image](https://github.com/user-attachments/assets/768379be-ce7a-4a43-abaf-eb67bdf760fe)
+    ![image](https://github.com/user-attachments/assets/768379be-ce7a-4a43-abaf-eb67bdf760fe)
 
 
-![image](https://github.com/user-attachments/assets/f876d97f-d49b-495a-8a51-9dbb325ad0e3)
+    ![image](https://github.com/user-attachments/assets/f876d97f-d49b-495a-8a51-9dbb325ad0e3)
 
 
-![image](https://github.com/user-attachments/assets/8779a53d-13b3-4372-a2b3-9c029c4f5572)
+    ![image](https://github.com/user-attachments/assets/8779a53d-13b3-4372-a2b3-9c029c4f5572)
 
 Hasta aquí lo realizado hasta el momento del proyecto, a continuación los próximos pasos:
 
