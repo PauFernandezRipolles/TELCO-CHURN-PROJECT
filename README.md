@@ -15,7 +15,7 @@ Se trata por tanto de un modelo atípico que representó un reto e implicó una 
 
 * Realizo un primer análisis y busco las preguntas relevantes para preparar y organizar el análisis en profundidad.
 
-* Organizo el análisis en 4 dashboards:
+* Organizo el análisis en 5 dashboards:
   * Churn Motivation: ¿Que motiva a los clientes a cambiar?
   * Demographics: ¿Qué tipologia de clientes se quedan y cuales se van?
   * Billing: ¿Qué gastos realizan los clientes que se quedan y los que se van?
