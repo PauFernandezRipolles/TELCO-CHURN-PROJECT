@@ -40,9 +40,13 @@ Hasta aquí lo realizado hasta el momento del proyecto, a continuación los pró
    
 * Realizar los dashboards, con sus correspondientes visualizaciones, en POWER BI para exponer los datos relevantes y resolver las preguntas importantes.
 
-![image](https://github.com/user-attachments/assets/5a7fe109-c35b-4be1-b1cb-195d96133b48)
+![image](https://github.com/user-attachments/assets/768379be-ce7a-4a43-abaf-eb67bdf760fe)
 
-![image](https://github.com/user-attachments/assets/eb67858b-e38e-4417-93de-cc73040e70dd)
+
+![image](https://github.com/user-attachments/assets/f876d97f-d49b-495a-8a51-9dbb325ad0e3)
+
+
+![image](https://github.com/user-attachments/assets/6015f178-31da-49cb-af94-d1712d9f7bf3)
 
 
 
