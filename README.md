@@ -46,7 +46,8 @@ Hasta aquí lo realizado hasta el momento del proyecto, a continuación los pró
 ![image](https://github.com/user-attachments/assets/f876d97f-d49b-495a-8a51-9dbb325ad0e3)
 
 
-![image](https://github.com/user-attachments/assets/6015f178-31da-49cb-af94-d1712d9f7bf3)
+![image](https://github.com/user-attachments/assets/8779a53d-13b3-4372-a2b3-9c029c4f5572)
+
 
 
 
