@@ -40,11 +40,9 @@ Se trata por tanto de un modelo atípico que representó un reto e implicó una 
     ![image](https://github.com/user-attachments/assets/2b9b58f0-f837-4afa-94f3-a620a58ceb01)
     
     ![image](https://github.com/user-attachments/assets/5699557b-ecd1-4092-90d1-c6a908facbb3)
-
-
-Hasta aquí lo realizado hasta el momento del proyecto, a continuación los próximos pasos:
+    
    
-* Realizar los dashboards, con sus correspondientes visualizaciones, en POWER BI para exponer los datos relevantes y resolver las preguntas importantes.
+* Realizo los dashboards, con sus correspondientes visualizaciones, en POWER BI para exponer los datos relevantes y resolver las preguntas importantes.
 
 ![image](https://github.com/user-attachments/assets/768379be-ce7a-4a43-abaf-eb67bdf760fe)
 
@@ -54,8 +52,7 @@ Hasta aquí lo realizado hasta el momento del proyecto, a continuación los pró
 
 ![image](https://github.com/user-attachments/assets/8779a53d-13b3-4372-a2b3-9c029c4f5572)
 
-
-
+Hasta aquí lo realizado hasta el momento del proyecto, a continuación los próximos pasos:
 
 * Organizarlos en un informe de fácil navegación y usabilidad.
 * Realizar una presentacion en video en POWER POINT para contar, de una manera concisa, coherente y que mueva a la acción, qué nos cuentan estos datos sobre el CHURN y como realizar acciones concretas para abordar este problema. 
