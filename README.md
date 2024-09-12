@@ -41,6 +41,10 @@ Se trata por tanto de un modelo atípico que representó un reto e implicó una 
     
     ![image](https://github.com/user-attachments/assets/5699557b-ecd1-4092-90d1-c6a908facbb3)
     
+  * Creo una columna calculada para categorizar "monthly charge" para facilitar el análisis de "billing".
+
+    ![image](https://github.com/user-attachments/assets/9f5c31c8-434d-4ad7-bbf8-a8833df324a2)
+
    
 * Realizo los dashboards, con sus correspondientes visualizaciones, en POWER BI para exponer los datos relevantes y resolver las preguntas importantes.
 
