@@ -48,18 +48,22 @@ Se trata por tanto de un modelo atípico que representó un reto e implicó una 
   * Hago lo mismo con las columnas de cargos por consumo de datos (dividiendo antes el total cobrado por los meses de contrato) y por consumo de llamadas internacionales.
 
     ![image](https://github.com/user-attachments/assets/98fb0d69-dc7e-4f9b-827e-32ef34d934d6)
+    
     ![image](https://github.com/user-attachments/assets/3eae5131-71f6-4069-b96c-c0b034ded62b)
+    
     ![image](https://github.com/user-attachments/assets/126528a2-8f8b-42f3-8a0a-6b03180a9afb)
    
 * Realizo los dashboards, con sus correspondientes visualizaciones, en POWER BI para exponer los datos relevantes y resolver las preguntas importantes.
 
-    ![image](https://github.com/user-attachments/assets/768379be-ce7a-4a43-abaf-eb67bdf760fe)
+    ![image](https://github.com/user-attachments/assets/d8371ec4-8eac-478f-9383-824611e9954e)
 
 
     ![image](https://github.com/user-attachments/assets/f876d97f-d49b-495a-8a51-9dbb325ad0e3)
 
 
     ![image](https://github.com/user-attachments/assets/8779a53d-13b3-4372-a2b3-9c029c4f5572)
+
+  
 
 Hasta aquí lo realizado hasta el momento del proyecto, a continuación los próximos pasos:
 
