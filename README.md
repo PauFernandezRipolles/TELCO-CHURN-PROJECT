@@ -59,12 +59,12 @@ Se trata por tanto de un modelo atípico que representó un reto e implicó una 
     ![image](https://github.com/user-attachments/assets/d8371ec4-8eac-478f-9383-824611e9954e)
 
 
-    ![image](https://github.com/user-attachments/assets/f876d97f-d49b-495a-8a51-9dbb325ad0e3)
+    ![image](https://github.com/user-attachments/assets/743c4634-c15b-4b1e-8b5e-971d0f20a6c1)
 
 
-    ![image](https://github.com/user-attachments/assets/8779a53d-13b3-4372-a2b3-9c029c4f5572)
+    ![image](https://github.com/user-attachments/assets/ee32c144-ba4b-4aff-8253-5a85f6684cac)
 
-  
+
 
 Hasta aquí lo realizado hasta el momento del proyecto, a continuación los próximos pasos:
 
