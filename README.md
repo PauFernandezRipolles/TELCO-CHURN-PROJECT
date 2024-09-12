@@ -41,10 +41,15 @@ Se trata por tanto de un modelo atípico que representó un reto e implicó una 
     
     ![image](https://github.com/user-attachments/assets/5699557b-ecd1-4092-90d1-c6a908facbb3)
     
-  * Creo una columna calculada para categorizar "monthly charge" para facilitar el análisis de "billing".
+  * Creo una columna calculada para categorizar "monthly charge" para facilitar el análisis de "billing" respecto al churn rate.
 
-    ![image](https://github.com/user-attachments/assets/4220750e-04a5-4bcc-9c8a-0f99d177626c)
+    ![image](https://github.com/user-attachments/assets/d02bdf82-353b-4213-ae44-0c10dc5b931e)
+    
+  * Hago lo mismo con las columnas de cargos por consumo de datos (dividiendo antes el total cobrado por los meses de contrato) y por consumo de llamadas internacionales.
 
+    ![image](https://github.com/user-attachments/assets/98fb0d69-dc7e-4f9b-827e-32ef34d934d6)
+    ![image](https://github.com/user-attachments/assets/3eae5131-71f6-4069-b96c-c0b034ded62b)
+    ![image](https://github.com/user-attachments/assets/126528a2-8f8b-42f3-8a0a-6b03180a9afb)
    
 * Realizo los dashboards, con sus correspondientes visualizaciones, en POWER BI para exponer los datos relevantes y resolver las preguntas importantes.
 
