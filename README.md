@@ -53,6 +53,10 @@ Se trata por tanto de un modelo atípico que representó un reto e implicó una 
     
     ![image](https://github.com/user-attachments/assets/11c1b62a-ba26-41e9-a922-54baca6d0a84)
 
+  * Realizo varias medidas para calcular el churn rate promedio de los clientes que tienen un determinado servicio activo.
+
+    ![image](https://github.com/user-attachments/assets/31c6f154-755a-4217-8748-9c4f0d44011d)
+
    
 * Realizo los dashboards, con sus correspondientes visualizaciones, en POWER BI para exponer los datos relevantes y resolver las preguntas importantes.
 
@@ -66,6 +70,16 @@ Se trata por tanto de un modelo atípico que representó un reto e implicó una 
   
 
     ![image](https://github.com/user-attachments/assets/3c887f11-9435-4662-afe6-76466ed00ae0)
+
+
+    ![image](https://github.com/user-attachments/assets/1ab1b876-66ed-453a-832a-c3c6bd209a1d)
+
+
+    ![image](https://github.com/user-attachments/assets/418e8440-86b3-4706-a9fc-a77073ea5e56)
+
+
+    ![image](https://github.com/user-attachments/assets/bff3bbe7-6297-4d06-9b8d-55940d7e21a4)
+
 
 
 Hasta aquí lo realizado hasta el momento del proyecto, a continuación los próximos pasos:
