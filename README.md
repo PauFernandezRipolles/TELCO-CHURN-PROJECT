@@ -6,7 +6,6 @@ A partir de un único archivo CSV de KAGGLE, sobre la rotación de clientes de u
 
 ![image](https://github.com/user-attachments/assets/1263e5b1-d86a-4d7d-993e-57cfe41c8791)
 
-
 En este caso no se trata de un modelo típico en estrella o copo de nieve con relaciones varios a uno de partida. Tomando los indicadores del Churn como eje vertebrador y, por tanto, como tabla de hechos principal y objetivo del análisis, organizo las otras tablas (Cuenta, Servicios, Facturación, Demografia y Satisfacción del cliente) alrededor de la tabla Churn. Todas se relacionan con Churn a través de ID de Cliente que presenta solo valores únicos en la tabla Churn. Solo la tabla de lugares es una tabla de dimensiones propiamente dicha que se relaciona con Demografia. 
 
 Para una mayor coheréncia del modelo, modifico la cardinalidad de las relaciones de Churn a las de "dimensiones" a varios a uno. También opto por crear un ID de Churn con la idea de que, en el futuro, se puedan añadir datos de posibles churn parciales (si un cliente se lleva una linea pero no toda la cuenta), incluir clientes que retornan después de churn o añadir los datos de los clientes nuevos para tener los datos de captación netos. Así la relación de Churn con las otras tablas sería de manera natural de varios a uno. 
@@ -27,12 +26,10 @@ Se trata por tanto de un modelo atípico que representó un reto e implicó una 
     
     ![image](https://github.com/user-attachments/assets/51949780-1fbb-432f-b0a8-dfbf2072233c)
 
-
   * Creo un Scoring de clientes en función de la cantidad y calidad de los servicios contratados:
  
     ![image](https://github.com/user-attachments/assets/62b482e8-2473-4277-82c2-89651059ff76)
 
-    
     ![image](https://github.com/user-attachments/assets/737e188b-cd40-48c2-9ed3-0bd058ba7e73)
 
   * Calculo la tasa de clientes Premium en función del scoring:
@@ -55,7 +52,7 @@ Se trata por tanto de un modelo atípico que representó un reto e implicó una 
 
   * Realizo varias medidas para calcular el churn rate promedio de los clientes que tienen un determinado servicio activo.
 
-    ![image](https://github.com/user-attachments/assets/31c6f154-755a-4217-8748-9c4f0d44011d)
+    ![image](https://github.com/user-attachments/assets/0324738c-a0bd-439a-8a1d-e6252fffc657)
 
    
 * Realizo los dashboards, con sus correspondientes visualizaciones, en POWER BI para exponer los datos relevantes y resolver las preguntas importantes.
@@ -67,9 +64,6 @@ Se trata por tanto de un modelo atípico que representó un reto e implicó una 
 
 
     ![image](https://github.com/user-attachments/assets/a1144ee6-3704-4adc-8644-93b66869b379)
-  
-
-    ![image](https://github.com/user-attachments/assets/3c887f11-9435-4662-afe6-76466ed00ae0)
 
 
     ![image](https://github.com/user-attachments/assets/1ab1b876-66ed-453a-832a-c3c6bd209a1d)
@@ -81,8 +75,7 @@ Se trata por tanto de un modelo atípico que representó un reto e implicó una 
     ![image](https://github.com/user-attachments/assets/bff3bbe7-6297-4d06-9b8d-55940d7e21a4)
 
 
-
 Hasta aquí lo realizado hasta el momento del proyecto, a continuación los próximos pasos:
 
 * Organizarlos en un informe de fácil navegación y usabilidad.
-* Realizar una presentacion en video en POWER POINT para contar, de una manera concisa, coherente y que mueva a la acción, qué nos cuentan estos datos sobre el CHURN y como realizar acciones concretas para abordar este problema. 
+* Realizar una presentacion en video en POWER POINT para contar, de una manera concisa, coherente y que mueva a la acción, qué nos cuentan estos datos sobre el CHURN y como    realizar acciones concretas para abordar este problema. 
