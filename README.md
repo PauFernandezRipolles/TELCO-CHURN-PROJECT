@@ -42,21 +42,16 @@ Se trata por tanto de un modelo atípico que representó un reto e implicó una 
  
     ![image](https://github.com/user-attachments/assets/5d752d1b-9d4c-4775-ba00-f890ace913b0)
  
-    ![image](https://github.com/user-attachments/assets/2f9729a7-442d-4a32-9eee-bf8ebc546a15)
-
-
-
- 
-    ![image](https://github.com/user-attachments/assets/62b482e8-2473-4277-82c2-89651059ff76)
-
-    ![image](https://github.com/user-attachments/assets/737e188b-cd40-48c2-9ed3-0bd058ba7e73)
 
   * Calculo la tasa de clientes Premium en función del scoring:
  
     ![image](https://github.com/user-attachments/assets/1c385c69-42f2-4228-9d9c-d0a4a7fdd4c5)
+ 
+    ![image](https://github.com/user-attachments/assets/2f9729a7-442d-4a32-9eee-bf8ebc546a15)
 
     
-    ![image](https://github.com/user-attachments/assets/2b9b58f0-f837-4afa-94f3-a620a58ceb01)
+    ![image](https://github.com/user-attachments/assets/d39651ca-ea4f-470d-b435-9939958f518b)
+
     
     ![image](https://github.com/user-attachments/assets/5699557b-ecd1-4092-90d1-c6a908facbb3)
     
