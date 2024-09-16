@@ -29,7 +29,7 @@ Se trata por tanto de un modelo atípico que representó un reto e implicó una 
     ![image](https://github.com/user-attachments/assets/51949780-1fbb-432f-b0a8-dfbf2072233c)
     
 
-  * Creo medidas para obtener la tasa de satisfacción de los clientes que realizan churn y de loss que se quedan:
+  * Creo medidas para obtener la tasa de satisfacción de los clientes que realizan churn y de los que se quedan:
 
     ![image](https://github.com/user-attachments/assets/87959692-ff4b-4ab2-bcc2-be664ffa8279)
 
