@@ -63,7 +63,7 @@ Se trata por tanto de un modelo atípico que representó un reto e implicó una 
     ![image](https://github.com/user-attachments/assets/03eb8901-748b-4367-819a-05682b74831d)
 
 
-    ![image](https://github.com/user-attachments/assets/b8775a6f-be1f-4825-85e1-636df759b452)
+    ![image](https://github.com/user-attachments/assets/5f36960b-ac10-422a-af47-9af40bfd135d)
 
 
 
