@@ -45,16 +45,11 @@ Se trata por tanto de un modelo atípico que representó un reto e implicó una 
 
   * Calculo la tasa de clientes Premium en función del scoring:
  
-    ![image](https://github.com/user-attachments/assets/1c385c69-42f2-4228-9d9c-d0a4a7fdd4c5)
- 
     ![image](https://github.com/user-attachments/assets/2f9729a7-442d-4a32-9eee-bf8ebc546a15)
-
-    
+  
     ![image](https://github.com/user-attachments/assets/d39651ca-ea4f-470d-b435-9939958f518b)
 
-    
-    ![image](https://github.com/user-attachments/assets/5699557b-ecd1-4092-90d1-c6a908facbb3)
-    
+
   * Creo una columna calculada para categorizar "monthly charge" para facilitar el análisis de "billing" respecto al churn rate.
 
     ![image](https://github.com/user-attachments/assets/466d2068-9e86-46b4-9951-e4b6d4804bc6)
@@ -76,7 +71,7 @@ Se trata por tanto de un modelo atípico que representó un reto e implicó una 
    
 * Realizo los dashboards, con sus correspondientes visualizaciones, en POWER BI para exponer los datos relevantes y resolver las preguntas importantes.
 
-* Organizo los dashboards en un informe de fácil navegación y usabilidad.
+* Organizo los dashboards en un informe de fácil navegación y usabilidad. Añado una página de conclusiones.
   
 
     ![image](https://github.com/user-attachments/assets/03eb8901-748b-4367-819a-05682b74831d)
