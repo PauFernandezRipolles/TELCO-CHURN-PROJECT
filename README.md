@@ -57,13 +57,13 @@ Se trata por tanto de un modelo atípico que representó un reto e implicó una 
    
 * Realizo los dashboards, con sus correspondientes visualizaciones, en POWER BI para exponer los datos relevantes y resolver las preguntas importantes.
 
-    ![image](https://github.com/user-attachments/assets/d8371ec4-8eac-478f-9383-824611e9954e)
+    ![image](https://github.com/user-attachments/assets/03eb8901-748b-4367-819a-05682b74831d)
 
 
-    ![image](https://github.com/user-attachments/assets/743c4634-c15b-4b1e-8b5e-971d0f20a6c1)
+    ![image](https://github.com/user-attachments/assets/11d4a9d7-03f0-4005-81ba-03bd0dc0d18f)
 
 
-    ![image](https://github.com/user-attachments/assets/a1144ee6-3704-4adc-8644-93b66869b379)
+    ![image](https://github.com/user-attachments/assets/70a62532-a584-4c70-9370-aa967e1d14f1)
 
 
     ![image](https://github.com/user-attachments/assets/1ab1b876-66ed-453a-832a-c3c6bd209a1d)
@@ -73,9 +73,12 @@ Se trata por tanto de un modelo atípico que representó un reto e implicó una 
 
 
     ![image](https://github.com/user-attachments/assets/bff3bbe7-6297-4d06-9b8d-55940d7e21a4)
+  
+
+* Organizo los dashboards en un informe de fácil navegación y usabilidad.
 
 
 Hasta aquí lo realizado hasta el momento del proyecto, a continuación los próximos pasos:
 
-* Organizarlos en un informe de fácil navegación y usabilidad.
+
 * Realizar una presentacion en video en POWER POINT para contar, de una manera concisa, coherente y que mueva a la acción, qué nos cuentan estos datos sobre el CHURN y como    realizar acciones concretas para abordar este problema. 
