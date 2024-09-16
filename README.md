@@ -80,9 +80,6 @@ Se trata por tanto de un modelo atípico que representó un reto e implicó una 
     ![image](https://github.com/user-attachments/assets/5f36960b-ac10-422a-af47-9af40bfd135d)
 
 
-    ![image](https://github.com/user-attachments/assets/5f8bc2cc-5f20-4514-af7f-593788bdbcc2)
-
-
     ![image](https://github.com/user-attachments/assets/36e9dd78-7a02-4c44-93e0-8dffd3c730cf)
 
 
