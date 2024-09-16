@@ -91,5 +91,7 @@ Se trata por tanto de un modelo atípico que representó un reto e implicó una 
 
     ![image](https://github.com/user-attachments/assets/e3238e8d-5088-4fc8-8dce-d98969575154)
 
-
-* Realizo una presentacion en video en POWER POINT para contar, de una manera concisa, coherente y que mueva a la acción, qué nos cuentan estos datos sobre el CHURN y como    realizar acciones concretas para abordar este problema. 
+  
+* Publico el informe en Power Bi service: https://app.powerbi.com/links/DFTaTKSph1?ctid=a125a53b-bbd8-4ccc-ba32-156026867b55&pbi_source=linkShare
+  
+* Realizo una presentacion de video en POWER POINT para contar, de una manera concisa, coherente y que mueva a la acción, qué nos cuentan estos datos sobre el CHURN y como    realizar acciones concretas para abordar este problema. 
