@@ -57,28 +57,33 @@ Se trata por tanto de un modelo atípico que representó un reto e implicó una 
    
 * Realizo los dashboards, con sus correspondientes visualizaciones, en POWER BI para exponer los datos relevantes y resolver las preguntas importantes.
 
+* Organizo los dashboards en un informe de fácil navegación y usabilidad.
+  
+
     ![image](https://github.com/user-attachments/assets/03eb8901-748b-4367-819a-05682b74831d)
 
 
-    ![image](https://github.com/user-attachments/assets/11d4a9d7-03f0-4005-81ba-03bd0dc0d18f)
+    ![image](https://github.com/user-attachments/assets/b8775a6f-be1f-4825-85e1-636df759b452)
 
 
-    ![image](https://github.com/user-attachments/assets/70a62532-a584-4c70-9370-aa967e1d14f1)
+
+    ![image](https://github.com/user-attachments/assets/5f8bc2cc-5f20-4514-af7f-593788bdbcc2)
 
 
-    ![image](https://github.com/user-attachments/assets/1ab1b876-66ed-453a-832a-c3c6bd209a1d)
+
+    ![image](https://github.com/user-attachments/assets/36e9dd78-7a02-4c44-93e0-8dffd3c730cf)
 
 
-    ![image](https://github.com/user-attachments/assets/418e8440-86b3-4706-a9fc-a77073ea5e56)
+
+    ![image](https://github.com/user-attachments/assets/f37f500b-2ee0-44cf-b90d-2845aece66c7)
 
 
-    ![image](https://github.com/user-attachments/assets/bff3bbe7-6297-4d06-9b8d-55940d7e21a4)
-  
 
-* Organizo los dashboards en un informe de fácil navegación y usabilidad.
+    ![image](https://github.com/user-attachments/assets/cc900e2f-1fcf-4257-9d61-d515d7ee4dbe)
 
 
-Hasta aquí lo realizado hasta el momento del proyecto, a continuación los próximos pasos:
+
+    ![image](https://github.com/user-attachments/assets/e3238e8d-5088-4fc8-8dce-d98969575154)
 
 
-* Realizar una presentacion en video en POWER POINT para contar, de una manera concisa, coherente y que mueva a la acción, qué nos cuentan estos datos sobre el CHURN y como    realizar acciones concretas para abordar este problema. 
+* Realizo una presentacion en video en POWER POINT para contar, de una manera concisa, coherente y que mueva a la acción, qué nos cuentan estos datos sobre el CHURN y como    realizar acciones concretas para abordar este problema. 
