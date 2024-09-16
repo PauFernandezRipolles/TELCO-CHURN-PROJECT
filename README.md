@@ -24,15 +24,29 @@ Se trata por tanto de un modelo atípico que representó un reto e implicó una 
 * Para empezar a responder a estas preguntas empiezo a realizar medidas y a crear columnas calculadas con DAX:
   * Calculo la tasa de Churn:
     
+    ![image](https://github.com/user-attachments/assets/644b45f7-e063-4e8c-ab2f-2a5e47d03cbe)
+
     ![image](https://github.com/user-attachments/assets/51949780-1fbb-432f-b0a8-dfbf2072233c)
 
   * Creo un Scoring de clientes en función de la cantidad y calidad de los servicios contratados:
+ 
+    ![image](https://github.com/user-attachments/assets/16485cd1-7b23-4b6d-a2ad-a323f95e3494)
+ 
+    ![image](https://github.com/user-attachments/assets/5d752d1b-9d4c-4775-ba00-f890ace913b0)
+ 
+    ![image](https://github.com/user-attachments/assets/2f9729a7-442d-4a32-9eee-bf8ebc546a15)
+
+
+
  
     ![image](https://github.com/user-attachments/assets/62b482e8-2473-4277-82c2-89651059ff76)
 
     ![image](https://github.com/user-attachments/assets/737e188b-cd40-48c2-9ed3-0bd058ba7e73)
 
   * Calculo la tasa de clientes Premium en función del scoring:
+ 
+    ![image](https://github.com/user-attachments/assets/1c385c69-42f2-4228-9d9c-d0a4a7fdd4c5)
+
     
     ![image](https://github.com/user-attachments/assets/2b9b58f0-f837-4afa-94f3-a620a58ceb01)
     
@@ -40,15 +54,17 @@ Se trata por tanto de un modelo atípico que representó un reto e implicó una 
     
   * Creo una columna calculada para categorizar "monthly charge" para facilitar el análisis de "billing" respecto al churn rate.
 
-    ![image](https://github.com/user-attachments/assets/d02bdf82-353b-4213-ae44-0c10dc5b931e)
+    ![image](https://github.com/user-attachments/assets/466d2068-9e86-46b4-9951-e4b6d4804bc6)
+
     
   * Hago lo mismo con las columnas de cargos por consumo de datos (dividiendo antes el total cobrado por los meses de contrato) y por consumo de llamadas internacionales.
 
     ![image](https://github.com/user-attachments/assets/98fb0d69-dc7e-4f9b-827e-32ef34d934d6)
     
-    ![image](https://github.com/user-attachments/assets/3eae5131-71f6-4069-b96c-c0b034ded62b)
-    
-    ![image](https://github.com/user-attachments/assets/11c1b62a-ba26-41e9-a922-54baca6d0a84)
+    ![image](https://github.com/user-attachments/assets/372943b3-6d5a-4b01-bcd2-4e8607f0d00f)
+
+    ![image](https://github.com/user-attachments/assets/add2ad8b-8e56-4284-925b-9d0ed02fa508)
+
 
   * Realizo varias medidas para calcular el churn rate promedio de los clientes que tienen un determinado servicio activo.
 
@@ -66,21 +82,16 @@ Se trata por tanto de un modelo atípico que representó un reto e implicó una 
     ![image](https://github.com/user-attachments/assets/5f36960b-ac10-422a-af47-9af40bfd135d)
 
 
-
     ![image](https://github.com/user-attachments/assets/5f8bc2cc-5f20-4514-af7f-593788bdbcc2)
-
 
 
     ![image](https://github.com/user-attachments/assets/36e9dd78-7a02-4c44-93e0-8dffd3c730cf)
 
 
-
     ![image](https://github.com/user-attachments/assets/f37f500b-2ee0-44cf-b90d-2845aece66c7)
 
 
-
     ![image](https://github.com/user-attachments/assets/cc900e2f-1fcf-4257-9d61-d515d7ee4dbe)
-
 
 
     ![image](https://github.com/user-attachments/assets/e3238e8d-5088-4fc8-8dce-d98969575154)
