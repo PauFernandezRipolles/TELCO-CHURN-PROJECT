@@ -74,20 +74,24 @@ Se trata por tanto de un modelo atípico que representó un reto e implicó una 
 * Organizo los dashboards en un informe de fácil navegación y usabilidad. Añado una página de conclusiones.
   
 
-    ![image](https://github.com/user-attachments/assets/03eb8901-748b-4367-819a-05682b74831d)
+    ![image](https://github.com/user-attachments/assets/ad9c35f2-ae2d-40b7-9330-52d177dcf5e9)
 
 
-    ![image](https://github.com/user-attachments/assets/5f36960b-ac10-422a-af47-9af40bfd135d)
+    ![image](https://github.com/user-attachments/assets/3ca5d2a8-91c3-472a-8486-8bed98eaa785)
 
 
-    ![image](https://github.com/user-attachments/assets/36e9dd78-7a02-4c44-93e0-8dffd3c730cf)
+    ![image](https://github.com/user-attachments/assets/8674981c-8498-4122-854b-e99959cdee66)
 
 
-    ![image](https://github.com/user-attachments/assets/f37f500b-2ee0-44cf-b90d-2845aece66c7)
+    ![image](https://github.com/user-attachments/assets/077ab3ab-e39d-4539-bc9c-310ce2b27725)
 
 
-    ![image](https://github.com/user-attachments/assets/cc900e2f-1fcf-4257-9d61-d515d7ee4dbe)
+    ![image](https://github.com/user-attachments/assets/5c7053ca-ca60-4b12-a2dc-714950029432)
 
 
-    ![image](https://github.com/user-attachments/assets/e3238e8d-5088-4fc8-8dce-d98969575154)
+    ![image](https://github.com/user-attachments/assets/fb846acd-ff6d-4cfe-aa82-9efe8e8a4e09)
+
+
+    ![image](https://github.com/user-attachments/assets/60f36d2a-e162-47c7-a611-e52c08f77f67)
+
 
