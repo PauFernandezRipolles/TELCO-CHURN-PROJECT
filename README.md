@@ -1,5 +1,6 @@
 # TELCO-CHURN-PROJECT 
-https://app.powerbi.com/view?r=eyJrIjoiODE0MTI0MTktZmVjYi00MGQ5LTk1MjMtYWM0MTlhY2ExNjE5IiwidCI6ImFlYzc2MmU0LTNkNTQtNDk1ZS1hOGZlLTQyODdkY2U2ZmU2OSIsImMiOjh9&pageName=67735061405e129991c0
+
+[LINK TO THE INTERACTIVE DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiODE0MTI0MTktZmVjYi00MGQ5LTk1MjMtYWM0MTlhY2ExNjE5IiwidCI6ImFlYzc2MmU0LTNkNTQtNDk1ZS1hOGZlLTQyODdkY2U2ZmU2OSIsImMiOjh9&pageName=67735061405e129991c0)
 
 A partir de un único archivo CSV de KAGGLE, sobre la rotación de clientes de una empresa de telefonía, realizo la transformación, modelado y análisis de los datos para formular y responder preguntas relevantes que permitan sacar conclusiones útiles sobre como afrontar el problema del CHURN, el principal caballo de batalla de las Telco.
 * En un primer paso utilizo MySQL para visualizar los datos, obtener una primera visión de conjunto de los mismos y comprovar su integridad y coheréncia.
